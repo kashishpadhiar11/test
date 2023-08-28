@@ -1,5 +1,0 @@
-{{#user}}
-Name: Kashish Padhiar
-Skills: Python. C and C++, Java, Flutter, Dart, MySql, Machine learning (ongoing), Data Science (ongoing)
-Email: kashishpadhiar@gmail.com
-{{/user}}
